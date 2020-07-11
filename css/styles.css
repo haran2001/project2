@@ -9,18 +9,51 @@ header h1 {
 	font-family:sans-serif;
 }
 
-.element {
-	margin: 20px 50%;
+.score_board {
+	margin:1% 50%;
+	font-size:50px;
+	border:2px solid;
+	width:150px;
 }
 
-#score {
-	font-size:50px;
+.label {
+	font-size:20px;
+	background:red;
+	color:white;
+	border:2px solid black;
+	width:70px;
 }
+
+
+
+#user {
+	position:relative;
+	top:35px;
+	right:50px;
+}
+
+#computer {
+	position:relative;
+	top:10px;
+	left:125px;
+}
+
+.score {
+	position:relative;
+	top:-40px;
+	left:30px;
+}
+
 
 img {
+	
 	border:solid 2px;
-	padding:5%;
+	padding:4%;
+	margin:2% 5%;
 	border-radius:50%;
 }
+
+
+
 
 
