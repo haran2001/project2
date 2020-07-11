@@ -1,0 +1,26 @@
+body {
+	margin:0 auto;
+	padding:0px;
+}
+
+
+header h1 {
+	text-align:center;
+	font-family:sans-serif;
+}
+
+.element {
+	margin: 20px 50%;
+}
+
+#score {
+	font-size:50px;
+}
+
+img {
+	border:solid 2px;
+	padding:5%;
+	border-radius:50%;
+}
+
+
