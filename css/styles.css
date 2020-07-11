@@ -1,16 +1,18 @@
 body {
 	margin:0 auto;
 	padding:0px;
+	background-color:#24272E;
 }
 
 
 header h1 {
 	text-align:center;
 	font-family:sans-serif;
+	background-color:white;
 }
 
 .score_board {
-	margin:1% 50%;
+	margin:20px 400px;
 	font-size:50px;
 	border:2px solid;
 	width:150px;
@@ -24,8 +26,6 @@ header h1 {
 	width:70px;
 }
 
-
-
 #user {
 	position:relative;
 	top:35px;
@@ -38,6 +38,12 @@ header h1 {
 	left:125px;
 }
 
+#images {
+	width:50%;
+	margin:20px 280px;
+}
+
+
 .score {
 	position:relative;
 	top:-40px;
@@ -46,11 +52,15 @@ header h1 {
 
 
 img {
-	
 	border:solid 2px;
 	padding:4%;
 	margin:2% 5%;
 	border-radius:50%;
+	background: white;
+}
+
+img:hover {
+opacity: 0.5;
 }
 
 
