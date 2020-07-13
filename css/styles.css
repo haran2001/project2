@@ -12,7 +12,7 @@ header h1 {
 }
 
 .score_board {
-	margin:20px 400px;
+	margin:5% 880px;
 	font-size:50px;
 	border:2px solid white;
 	width:150px;
@@ -40,7 +40,7 @@ header h1 {
 
 #images {
 	width:50%;
-	margin:20px 280px;
+	margin:5% 32%;
 }
 
 
@@ -55,7 +55,7 @@ header h1 {
 img {
 	border:solid 2px;
 	padding:4%;
-	margin:2% 5%;
+	margin:2% 50px;
 	border-radius:50%;
 	background: white;
 }
