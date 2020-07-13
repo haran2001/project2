@@ -5,7 +5,7 @@ body {
 }
 
 
-header h1 {
+header {
 	text-align:center;
 	font-family:sans-serif;
 	background-color:white;
@@ -16,6 +16,13 @@ header h1 {
 	font-size:50px;
 	border:2px solid white;
 	width:150px;
+}
+
+.result {
+	margin:2% 30%;
+	font-size:50px;
+	color:white;
+	width:100%;
 }
 
 .label {
@@ -29,18 +36,22 @@ header h1 {
 #user {
 	position:relative;
 	top:35px;
-	right:50px;
+	right:60px;
 }
 
 #computer {
 	position:relative;
 	top:10px;
-	left:125px;
+	left:135px;
 }
 
 #images {
 	width:50%;
 	margin:5% 32%;
+}
+
+#images div {
+	display:inline;
 }
 
 
